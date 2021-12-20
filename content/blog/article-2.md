@@ -1,0 +1,33 @@
+---
+title: Da
+description: Aprende como hacer unas deliciosas croquetas con tu IDE favorito
+media: 'https://res.cloudinary.com/alvarosaburido/image/upload/v1614097454/as-portfolio/Croquetas_pdpc3q.png'
+
+---
+
+
+
+Aprende como hacer unas deliciosas croquetas con tu IDE favorito
+
+<!--more-->
+
+# Manera #1
+<h2>
+hola
+</h2>
+
+
+Arepa ipsum dolor amet amet massa dui frescolita freir tequeños; Háblame elit, sit lechoza justo palo de agua. Hallaca tequeño molleja Caracas es Caracas y lo demas monte y culebra achantado, guácala leo suscipit macundal; Massa pernil coroto sollicitudin suscipit cuatro aguacate! Arpa nec que pasó el mío? le eche los perros suscipit qué paso mi pana?! vitae! Te tengo un beta Nam accumsan venenatis! Meti los papeles con todo y pasaporte massa cachapa,
+
+<!--more-->
+
+# Manera #2
+
+Arepa ipsum dolor amet amet massa dui frescolita freir tequeños; Háblame elit, sit lechoza justo palo de agua. Hallaca tequeño molleja Caracas es Caracas y lo demas monte y culebra achantado, guácala leo suscipit macundal; Massa pernil coroto sollicitudin suscipit cuatro aguacate! Arpa nec que pasó el mío? le eche los perros suscipit qué paso mi pana?! vitae! Te tengo un beta Nam accumsan venenatis! Meti los papeles con todo y pasaporte massa cachapa,
+
+
+# Manera #3
+
+<img src="https://res.cloudinary.com/alvarosaburido/image/upload/v1614097454/as-portfolio/Croquetas_pdpc3q.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5k26Tjs69mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
